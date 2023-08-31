@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655579785199",
+    "project_id": "gpstrackindemo",
+    "storage_bucket": "gpstrackindemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655579785199:android:84592bde45cb92f6c8f81a",
+        "android_client_info": {
+          "package_name": "com.example.gpstrackindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655579785199-tnj52a77i6ud6lioo9k84dmfls2dkl2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwy8Nbcr_TD78upFZj8KK_XTnk3BGLlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655579785199-tnj52a77i6ud6lioo9k84dmfls2dkl2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
